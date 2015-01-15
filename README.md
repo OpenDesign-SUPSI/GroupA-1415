@@ -6,11 +6,11 @@ The repository for the project of Group A (Year 2014-2015)
 Hi girls, I'm testing git/github :) how we organize for the project? 
 
 
-<h2>Group members:</2>
+<h3>Group members:</h3>
 Guilia
 Soraia
 Francesca
 Hanne
 
-<h2>Teacher:</h2>
+<h3>Teacher:</h3>
 Menichinelli
