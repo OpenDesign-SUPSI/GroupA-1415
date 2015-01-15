@@ -15,4 +15,4 @@ Menichinelli
 <p>Hanne</p>
 
 <h2>Teacher:</h2>
-Menichinelli
+Massimo Menichinelli
