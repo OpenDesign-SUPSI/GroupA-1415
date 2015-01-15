@@ -13,4 +13,7 @@ Hi girls, I'm testing git/github :) how we organize for the project?
 <p>Hanne</p>
 
 <h3>Teacher:</h3>
-Massimo Menichinelli
+Massimo 
+
+<h3>Project: Toolbox</h3>
+
