@@ -8,7 +8,7 @@ Hi girls, I'm testing git/github :) how we organize for the project?
 <h2>Project: Toolbox</h2>
 Menichinelli
 
-<h2>Group members:</2>
+<h2>Group members:</h2>
 <p>Guilia</p>
 <p>Soraia</p>
 <p>Francesca</p>
