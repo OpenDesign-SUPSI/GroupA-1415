@@ -1,7 +1,6 @@
 #GroupA-1415
 This is the repository for the project of Group A (Year 2014 / 2015)
 
-==============
 <br/>
 ##Project: Toolbox
 
